@@ -1,0 +1,12 @@
+{
+  "name": "infinite-pdf-theorem-backend",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "pdfkit": "^0.12.1",
+    "seedrandom": "^3.0.5"
+  }
+}
